@@ -1,2 +1,2 @@
 # meituan
-团购App
+一个类似于美团团购的App
